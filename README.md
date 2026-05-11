@@ -3,6 +3,7 @@
 An interactive Excel dashboard analyzing supply chain data across 10 business dimensions — identifying quality risks, cost inefficiencies, and supplier performance gaps.
 
 ---
+**🔗 Live Dashboard:** [View on Google Spreadsheet](https://docs.google.com/spreadsheets/d/1iq88_RX-O2P7aOVnlRnaHvtlUQXTZDna/edit?usp=sharing&ouid=113370789229794763814&rtpof=true&sd=true))
 
 ##  Dashboard Overview
 
