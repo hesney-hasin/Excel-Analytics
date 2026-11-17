@@ -78,5 +78,5 @@ An interactive Excel dashboard analyzing supply chain data across 10 business di
 ## 👩‍💻 Author
 
 **Hasnay Hasin**
-- Portfolio: [hesney-hasin-portfolio.netlify.app](https://hasnay-hasin-portfolio.vercel.app/)
+- Portfolio: [hesnay-hasin-portfolio.vercel.app](https://hasnay-hasin-portfolio.vercel.app/)
 - LinkedIn: [hesney-hasin-maliha](https://www.linkedin.com/in/hesney-hasin-maliha/)
